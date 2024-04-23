@@ -14,7 +14,7 @@ class CustomTextField extends StatelessWidget {
         controller: controller,
         decoration: const InputDecoration(
             border: InputBorder.none,
-            fillColor: Color.fromARGB(255, 169, 183, 212),
+            fillColor: Color.fromARGB(255, 163, 178, 210),
             filled: true),
         style: const TextStyle(fontSize: 50),
         readOnly: true,
