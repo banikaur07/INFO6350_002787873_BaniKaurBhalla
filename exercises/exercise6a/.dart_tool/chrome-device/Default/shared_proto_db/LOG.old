@@ -1,3 +1,5 @@
-2024/04/23-01:20:09.547 6f03 Reusing MANIFEST /private/var/folders/d5/7m1tzzr919l4csqhljf8gzpw0000gn/T/flutter_tools.otyB2G/flutter_tools_chrome_device.6OktOD/Default/shared_proto_db/MANIFEST-000001
-2024/04/23-01:20:09.554 6f03 Recovering log #3
-2024/04/23-01:20:09.561 6f03 Reusing old log /private/var/folders/d5/7m1tzzr919l4csqhljf8gzpw0000gn/T/flutter_tools.otyB2G/flutter_tools_chrome_device.6OktOD/Default/shared_proto_db/000003.log 
+2024/04/23-01:49:58.579 9307 Reusing MANIFEST /private/var/folders/d5/7m1tzzr919l4csqhljf8gzpw0000gn/T/flutter_tools.y49Kzy/flutter_tools_chrome_device.SmfBat/Default/shared_proto_db/MANIFEST-000001
+2024/04/23-01:49:58.579 9307 Recovering log #4
+2024/04/23-01:49:58.580 9307 Reusing old log /private/var/folders/d5/7m1tzzr919l4csqhljf8gzpw0000gn/T/flutter_tools.y49Kzy/flutter_tools_chrome_device.SmfBat/Default/shared_proto_db/000004.log 
+2024/04/23-01:49:58.581 9307 Delete type=0 #3
+2024/04/23-01:49:58.581 9307 Delete type=2 #5
