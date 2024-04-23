@@ -15,7 +15,7 @@ class HomeScreen extends StatelessWidget {
     final screenHeight = MediaQuery.sizeOf(context).height;
     const padding = EdgeInsets.symmetric(horizontal: 25, vertical: 30);
     const decoration = BoxDecoration(
-        color: Color.fromARGB(255, 170, 174, 183),
+        color: Color.fromARGB(255, 181, 187, 199),
         borderRadius: BorderRadius.vertical(top: Radius.circular(30)));
 
     return Consumer<CalculatorProvider>(builder: (context, provider, _) {
