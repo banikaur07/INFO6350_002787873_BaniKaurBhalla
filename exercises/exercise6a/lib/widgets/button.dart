@@ -17,7 +17,7 @@ class Button1 extends StatelessWidget {
           .setValue(label),
       child: Material(
         elevation: 3,
-        color: AppColors.primaryColor,
+        color: const Color.fromARGB(255, 201, 214, 239),
         borderRadius: BorderRadius.circular(50),
         child: CircleAvatar(
           radius: 36,
@@ -25,7 +25,7 @@ class Button1 extends StatelessWidget {
           child: Text(
             label,
             style: TextStyle(
-                color: textColor, fontSize: 32, fontWeight: FontWeight.w600),
+                color: textColor, fontSize: 30, fontWeight: FontWeight.w600),
           ),
         ),
       ),
