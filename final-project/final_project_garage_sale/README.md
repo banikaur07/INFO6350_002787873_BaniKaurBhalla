@@ -1,7 +1,7 @@
 # final_project_garage_sale
 
 Step # 1 : HyperGarageSale
-Start a new Flutter (Android/iOS) Application project and create you first activity with layout that allows user to enter Title, Price, Description in text format in three different text fields. Provide a button to allow user to Post a new classified.
+Start a new Flutter (Android/iOS) Application project and create first activity with layout that allows user to enter Title, Price, Description in text format in three different text fields. Provide a button to allow user to Post a new classified.
 
 Step # 2 : HyperGarageSale - Menus and Notifications
 (1) Add a SnackBar that comes up when a new post has been added.
@@ -20,22 +20,8 @@ Step # 3 : BrowsePostActivity
 (5) Update your application main entry point to use BrowsePostsActivity instead of NewPostActivity.
 
 Step # 4 : HyperGarageSale - ListView
-(1) Add a ListView to BrowsePosts screen
-
-(2) Create a database to hold new posts data
-
-(3) Integrate ListView and corresponding adapter with database to store new posts
 
 Step # 5 : HyperGarageSale - Camera Interactions
-With each new post, allow user to take up to 4 images and attach them
-
-Application may display thumbnails of those images on the new post form for user to preview them
-
-When user will click on a given post on the ListView, open the post detail view
-
-Display post details and associated thumbnails 
-
-When clicked on thumbnail, display full-screen image with back navigation arrow
 
 Step # 6 : HyperGarageSale - Firebase Integration
 Integrate HyperGarageSale application with Firebase Services for the following
