@@ -1,0 +1,25 @@
+name: final_project_garage_sale
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^1.0.8
+  firebase_core: ^2.15.0
+  cloud_firestore: ^4.15.8
+  random_string: ^2.3.1
+  firebase_storage: ^11.6.9
+  carousel_slider: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true

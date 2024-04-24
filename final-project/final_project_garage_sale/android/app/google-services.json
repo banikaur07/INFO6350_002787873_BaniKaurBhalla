@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060545363689",
+    "project_id": "final-hyper-garage-sale",
+    "storage_bucket": "final-hyper-garage-sale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060545363689:android:1235826bccb186be433a78",
+        "android_client_info": {
+          "package_name": "com.example.final_project_garage_sale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnv1cvdXNu7Lv75KTcOKNT7p4fD-nnk1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
