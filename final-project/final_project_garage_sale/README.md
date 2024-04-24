@@ -1,4 +1,4 @@
-# HyperGarage Sale Final Project
+# Hyper Garage Sale Final Project
 
 A mobile application designed to sell items through garage sales using Flutter for cross-platform development and integrates with Firebase Firestore for real-time data management.
 
@@ -15,7 +15,7 @@ Displays images, title, description, and price
 Firebase Firestore for real-time data management
 
 
-# Hyper GarageSale Application Video -Android emulator
+# Hyper Garage Sale Application Video -Android emulator
 
 https://github.com/banikaur07/INFO6350_002787873_BaniKaurBhalla/assets/51403573/f34adb07-cc50-46c0-aa46-c3e7a305b4d5
 
