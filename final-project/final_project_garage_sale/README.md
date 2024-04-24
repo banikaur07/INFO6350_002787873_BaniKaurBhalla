@@ -21,7 +21,7 @@ https://github.com/banikaur07/INFO6350_002787873_BaniKaurBhalla/assets/51403573/
 
 
 
-# Hyper GarageSale Application Video -iOS emulator
+# Hyper Garage Sale Application Video -iOS emulator
 
 
 https://github.com/banikaur07/INFO6350_002787873_BaniKaurBhalla/assets/51403573/be14ac44-e239-4593-b1a6-b538f9eabd94
