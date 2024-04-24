@@ -10,7 +10,7 @@ Displays all available listings in a ListView format
 
 # - New Post Activity
 
-Enables the users to create and post new products for sale
+Posts new products for sale
 
 # - Post Detail Activity
 
