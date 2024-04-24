@@ -1,36 +1,24 @@
-# final_project_garage_sale
+# HyperGarage Sale Final Project
 
-Step # 1 : HyperGarageSale
-Start a new Flutter (Android/iOS) Application project and create first activity with layout that allows user to enter Title, Price, Description in text format in three different text fields. Provide a button to allow user to Post a new classified.
+A mobile application designed to facilitate selling items through garage sales. It's built using Flutter for cross-platform development and integrates with Firebase Firestore for real-time data management.
 
-Step # 2 : HyperGarageSale - Menus and Notifications
-(1) Add a SnackBar that comes up when a new post has been added.
+Some features of the app:
 
-(2) Add an Action Bar with a menu item to Post a new item. See this article for Action Bar tutorial.
+# - Browse Post Activity 
 
-Step # 3 : BrowsePostActivity
-(1) Add a new widget/screen called BrowsePostsActivity.dart with Floating Action Button
+Displays all available listings in a ListView format
 
-(2) Define BrowsePostsActivity as a parent activity of NewPostActivity.
+# - New Post Activity
 
-(3) Implement ActionBar for BrowsePostsActivity.dart 
+Enables the users to create and post new products for sale
 
-(4) Add navigation route to navigate from BrowsePostsActivity.dart to NewPostActivity.dart when floating action button is pressed.
+# - Post Detail Activity
 
-(5) Update your application main entry point to use BrowsePostsActivity instead of NewPostActivity.
+Displays a carousel of images, title, description, and price
 
-Step # 4 : HyperGarageSale - ListView
+# Firebase Integration
 
-Step # 5 : HyperGarageSale - Camera Interactions
-
-Step # 6 : HyperGarageSale - Firebase Integration
-Integrate HyperGarageSale application with Firebase Services for the following
-
-Authentication
-
-Real-time database (Firestore)
-
-Storing and retrieving image files (Storage)
+Firebase Firestore for real-time data management
 
 
 # Hyper GarageSale Application Video -Android emulator
