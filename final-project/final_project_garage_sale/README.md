@@ -14,7 +14,7 @@ Enables the users to create and post new products for sale
 
 # - Post Detail Activity
 
-Displays a carousel of images, title, description, and price
+Displays images, title, description, and price
 
 # Firebase Integration
 
