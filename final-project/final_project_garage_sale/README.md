@@ -37,3 +37,12 @@ Storing and retrieving image files (Storage)
 
 https://github.com/banikaur07/INFO6350_002787873_BaniKaurBhalla/assets/51403573/f34adb07-cc50-46c0-aa46-c3e7a305b4d5
 
+
+
+# Hyper GarageSale Application Video -iOS emulator
+
+
+https://github.com/banikaur07/INFO6350_002787873_BaniKaurBhalla/assets/51403573/be14ac44-e239-4593-b1a6-b538f9eabd94
+
+
+
