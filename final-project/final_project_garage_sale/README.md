@@ -1,8 +1,8 @@
 # HyperGarage Sale Final Project
 
-A mobile application designed to facilitate selling items through garage sales. It's built using Flutter for cross-platform development and integrates with Firebase Firestore for real-time data management.
+A mobile application designed to sell items through garage sales using Flutter for cross-platform development and integrates with Firebase Firestore for real-time data management.
 
-Some features of the app:
+Features of the app:
 
 # - Browse Post Activity 
 
