@@ -2,9 +2,9 @@
 
 A mobile application designed to sell items through garage sales using Flutter for cross-platform development and integrates with Firebase Firestore for real-time data management.
 
-Features of the app:
+# Features of this app:
 
-# - Browse Post Activity 
+# - Browse Post Activity
 
 Displays all available listings in a ListView format
 
