@@ -5,15 +5,10 @@ A mobile application designed to sell items through garage sales using Flutter f
 # Features of this app:
 
 # - Browse Post Activity
-
 Displays all available listings in a ListView format
-
 # - New Post Activity
-
 Posts new products for sale
-
 # - Post Detail Activity
-
 Displays images, title, description, and price
 
 # Firebase Integration
